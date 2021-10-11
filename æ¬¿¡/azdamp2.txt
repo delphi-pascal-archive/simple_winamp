@@ -1,0 +1,80 @@
+12/25/95 : AZD-AMP2 2.x skin
+
+This skin was based off of three other skins which I really liked --
+the original AZD-AMP2, BLUE STEEL, and SII.  While BLUE STEEL and SII
+were great skins, I really wanted a life-like stereo skin, and AZD-AMP2
+came as close as one could get, but it had only the main skin.  So I
+took out about an hour and used some creativity to make up the rest of
+the skin for the latest versions of WINAMP and XMMS.
+
+Credits for the main part goes to Z. Djakoic (completely his own work,
+(no modifications), the decibal (spell?) scales' gradient meter was a
+modification of BLUE STEEL's, and the miniature menus on the playlist
+are modified version from SII (until I can come up w/ something a bit
+more original).  Everything else was put together by me (some copy and
+paste done from original works, too).  I hope you like it (and that the
+authors of the original skins don't get mad at me).
+
+Han Duong -- hduong@ju.edu
+
+
+    ... below are the original infos from the three skins I used ...
+------------------------------------------------------------------------
+
+                         AZD-AMP2 WinAMP skin
+------------------------------------------------------------------------
+      This is my fourth skin /not completely mine/. When I saw Sonicated
+  skins display, I couldn't resist to change display in my first AZD-AMP
+  skin. I completely used Sonicated display, changed colors of interface
+  to match colors of speakers /made for AZD-Sensor/ and added my Sensors
+  Position slider. So, the new remix was done. I think that it's cool
+  and very functional, so I decided to put it on Internet.
+
+  Thanks to YUG Creator of Sonicated display.
+
+  My WinAMP Skins Homepage http://members.tripod.com/~Djakovic/index.html
+  My Old Homepage          http://www.beotel.yu/~azd/index.html
+
+  AZD - Architect Zoran Djakovic
+
+------------------------------------------------------------------------
+
+BLUE STEEL
+
+Just unzip in your /winamp/skin directory then select Blue Steel in the
+window 'select skin'.
+
+Thanks for using this skin. I hope you'll find it useful.
+
+if you have any comments or suggestions, contact me :
+stephane.feu@worldonline.fr
+
+steph@ne - FRANCE
+
+------------------------------------------------------------------------
+
+SONICATED 2 (SII)
+Hi! this is YUG.
+Here is a sonicated 2.x (named "SII")
+Have fun...!
+
+Thanks.
+
+
+19991022:
+	<> Fixed some bugs.
+	<> Deleted default cursors from zip.
+	<> Added htm. for minibrowser.
+	  (Place "winampmb.htm" your winamp dir.)
+
+============================
+SII standard version.
+(C)1999 YUG / All Rights Reserved.
+
+credits:
+
+maked by YUG.
+tested by DAMNED.
+email : yug@zmail.plala.or.jp
+w w w : http://www1.plala.or.jp/yug
+------------------------------------------------------------------------
